@@ -3,7 +3,7 @@
 - 🌱 Actuellement, j'apprends des langages de programmation comme Python, JavaScript, et plus encore.
 - 💞️ Je cherche à collaborer sur des projets open source et des initiatives d'apprentissage collaboratif.
 - 📫 Vous pouvez me joindre via mon profil GitHub ou par email : [adjebadjaa@gmail.com].
-- 😄 Pronoms : il/lui
+- 😄 Pronoms : kingShak.......Bshak....21
 - ⚡ Fait amusant : J'adore résoudre des puzzles et explorer de nouveaux frameworks !
 
 <!---
